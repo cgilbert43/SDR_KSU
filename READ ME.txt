@@ -1,0 +1,5 @@
+Andrew Cline, Clifford Gilbert, Goran Novakovic
+Kennesaw State University
+EE 6900 Software Defined Radio and IoT
+
+[Put purpose of Github Repository here]
