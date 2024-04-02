@@ -1,5 +1,13 @@
+Short Messaging Control Mechanism for CAN Bus Architecture
 Andrew Cline, Clifford Gilbert, Goran Novakovic
 Kennesaw State University
 EE 6900 Software Defined Radio and IoT
 
 [Put purpose of Github Repository here]
+
+Matlab Version: 2024a or newer
+
+Needed Matlab Toolboxes to run the model:
+- Communications Toolbox
+- Phased Array System Toolbox
+- Vehicle Network Toolbox
