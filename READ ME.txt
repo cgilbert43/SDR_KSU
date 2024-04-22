@@ -11,3 +11,4 @@ Needed Matlab Toolboxes to run the model:
 - Communications Toolbox
 - Phased Array System Toolbox
 - Vehicle Network Toolbox
+- Vehicle Dynamics Blockset
